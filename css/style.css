@@ -35,7 +35,7 @@ img {
 
 .top-nav {
     padding: 10px 0;
-    background: #e69c02;
+    background: linear-gradient(33deg, #F9B406 0%, #DF9300 100%);
     text-align: center;
     color: #fff;
     border-radius: 0;
